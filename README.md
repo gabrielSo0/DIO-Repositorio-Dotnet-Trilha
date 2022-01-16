@@ -1,5 +1,5 @@
-# DIO-Repositorio-Trilhas
-## Repositório utilizado para compartilhar desafios e projetos dos cursos da DIO
+# DIO-Repositorio-Dotnet-Trilha
+## Repositório utilizado para compartilhar o desatio da DIO
 
 
 
